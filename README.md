@@ -110,6 +110,7 @@ printf("%c",m[i]);
 
 
 SAMPLE OUTPUT:
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/057f1387-39e3-471e-854f-06bc1273c375" />
 
 RESULT:
 Thus the encryption and decryption is implemented and the output is obtained and verified successfully
